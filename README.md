@@ -1,7 +1,7 @@
 # Dear Data 100: Movies
 
 # What this is
-This is my Dear Data 100 project for IN1007 Java Programming (#CreativeCoding). It's a Processing sketch that shows 100 movies I've watched. Instead of just listing the movies, it shows how each one affected me, if where i watched it has any affect, and what memories are attached to it.
+This is my Dear Data 100 project for IN1007 Java Programming (CreativeCoding). It's a Processing sketch that shows 100 movies I've watched. Instead of just listing the movies, it shows how each one affected me, if where i watched it has any affect, and what memories are attached to it. Using all of the information i gather i am really interested to see if i learn something more about myself. 
 
 # Why movies?
 My whole life movies have been an escape for me, ive always allowed myself to be immersed into a fictional reality, a fantasy where i feel and connect with the characters and events. Since i aim to watch a movie a day (sometimes 2) I wanted to see if any patterns show up when I look at all of them together, for example whether certain emotions go with certain places or memories.
