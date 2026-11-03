@@ -13,8 +13,8 @@ All the data is in movies.csv. Each row is one movie, and each movie has seven p
 - year: the year it was released
 - rating: my score out of 10
 - mainEmotion: the main feeling it gave me 
-- memory: whenever i think of this movie, where does my mind take me?
 - location: where I watched it (cinema, home, friends house, my own room)
-- recommendTo: who I'd recommend it to 
+- recommendTo: who I'd recommend it to
+- memoryNote: whenever i think of this movie, where does my mind take me?
 
 I used fixed lists for the emotions, memories, locations and recommendations so the data stays consistent across all 100 movies. I started by writing down movies that have affected my day-to-day life and have stayed lingering on my mind for many years, and throughout the list i would put in the movies i watched that day or recently.
